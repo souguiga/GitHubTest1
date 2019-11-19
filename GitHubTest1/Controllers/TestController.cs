@@ -11,7 +11,7 @@ namespace GitHubTest1.Controllers
         // GET: Test
         public ActionResult Index()
         {
-            string = "Gui is awesome";
+            string gui = "Gui is awesome";
             return View();
            
         }
